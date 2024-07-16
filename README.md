@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kefan</h1>
+<h1 align="center">Hi 👋, I'm YU XIA</h1>
 <h3 align="center">A passionate and dedicated student of Software Design and Development</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript, springboot, react**
 
-- 📫 How to reach me **ariachen1014@gmail.com**
+- 📫 How to reach me **hildayu78@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan/](https://www.linkedin.com/in/chen-kefan/)
-
+- 📄 Know about my experiences https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 - ⚡ Fun fact **Walked out of Japan's largest underground labyrinth using Google Maps with a malfunctioning gps**
 
 - 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend
