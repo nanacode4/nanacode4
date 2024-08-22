@@ -6,9 +6,9 @@
 - 📫 How to reach me **hildayu78@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-- ⚡ Fun fact **Walked out of Japan's largest underground labyrinth using Google Maps with a malfunctioning gps**
 
-- 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend
+
+- 💻 Currently work on [recipe app](https://github.com/orgs/Simple-Recipes/repositories)) with my friend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
