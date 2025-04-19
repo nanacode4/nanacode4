@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YU XIA</h1>
 <h3 align="center">A passionate and dedicated student of Software Design and Development</h3>
 
-- 🌱 I’m currently learning **Java, JavaScript, springboot, react**
+- 🌱 I’m currently learning **Java, Python，JavaScript, springboot, react**
 
 - 📫 How to reach me **hildayu78@gmail.com**
 
