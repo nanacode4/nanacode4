@@ -8,7 +8,7 @@
 - 📄 Know about my experiences https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 
-- 💻 Currently work on [recipe app](https://github.com/orgs/Simple-Recipes/repositories) with my friend
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
