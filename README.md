@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Python，JavaScript, springboot, react**
 
-- 📫 How to reach me **hildayu78@gmail.com**
+- 📫 How to reach me **xiayu641013@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
