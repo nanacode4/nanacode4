@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YU XIA</h1>
+<h1 align="center">Hi, I'm YU XIA</h1>
 <h3 align="center">A passionate and dedicated student of Software Design and Development</h3>
 
 - 🌱 I’m currently learning **Java,Python,JavaScript,Springboot,React**
